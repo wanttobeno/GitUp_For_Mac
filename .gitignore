@@ -22,6 +22,7 @@ Thumbs.db
 .clang_complete
 #*.xcodeproj/project.xcworkspace/
 *.xcodeproj/xcuserdata/
+*.xcuserstate
  
 # for IDEA
 */build/*
