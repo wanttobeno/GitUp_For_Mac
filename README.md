@@ -9,7 +9,7 @@ Fork Verion:
 
 [libgit2 20180204](https://github.com/git-up/libgit2)
 
-[XLFacility 1.5.11] (https://github.com/swisspol/XLFacility)
+[XLFacility 1.5.11](https://github.com/swisspol/XLFacility)
 
 
 ###环境:
@@ -30,13 +30,19 @@ Xcode 8.3.2
 
 
 
-### 文件管理界面
+### 文件改动界面  Changes
+
 
 <p align="center">
 <img src="./snatshot2.png"/>
 </p>
 
 
+### 文件对比界面 Diff with HEAD 
+
+<p align="center">
+<img src="./snatshot3.png"/>
+</p>
 
 
 
